@@ -1,0 +1,3 @@
+- https://github.com/abdozmantar/ComfyUI-InstaSwap
+- https://www.youtube.com/watch?v=etaszB21Qt8&ab_channel=Social%26Apps
+- https://github.com/Navezjt/ComfyUI-VideoHelperSuite
